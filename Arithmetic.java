@@ -13,7 +13,7 @@ public class Arithmetic
         System.out.println("Addition is = "+(i+j));
 
 
-        System.out.println("subtraction is = "+ (i-j));
+       
         
         System.out.println("multiplication is = "+(i*j));
         
