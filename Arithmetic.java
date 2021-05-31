@@ -12,7 +12,7 @@ public class Arithmetic
 
         System.out.println("Addition is = "+(i+j));
 
-
+ System.out.println("this is us");
        
         
         System.out.println("multiplication is = "+(i*j));
